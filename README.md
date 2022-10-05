@@ -57,5 +57,5 @@ Softwares Were Pre - Installed In Sparkout OS.
 
 ![image](https://github.com/Sparkout-OS/Sparkout_OS-Extended-Professional-Edition/blob/main/1.png)
 
-![image](https://github.com/Sparkout-OS/Sparkout_OS-Extended-Professional-Edition/blob/main/2.png)
+
 
