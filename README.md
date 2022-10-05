@@ -29,7 +29,6 @@ Sparkout OS Specification :
   * Removed - Dump Services.
   * Registry Editor Blocked For Security Reasons.
   * Removed - useless settings & Registry keys.
-  * Windows 11 Activated By Our Own Server --- Before Release. ---            *New Features
   * Features - Lite Weighted OS for Potato Computer.
   * Removed - TPM 2.0 - removed for windows 11 comparativity for Potato OS.   *New Features
   * Group Policy - Custom Declared.
